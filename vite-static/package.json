@@ -1,0 +1,8 @@
+{
+  "name": "royat-example-vite-static",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "22.x" },
+  "scripts": { "build": "node check-build.js && vite build" },
+  "devDependencies": { "vite": "6.3.5" }
+}

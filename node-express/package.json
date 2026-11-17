@@ -1,0 +1,10 @@
+{
+  "name": "royat-example-node-express",
+  "private": true,
+  "engines": { "node": "22.x" },
+  "scripts": {
+    "build": "node check-build.js",
+    "start": "node index.js"
+  },
+  "dependencies": { "express": "4.21.2" }
+}
